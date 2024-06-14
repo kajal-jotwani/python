@@ -1,0 +1,5 @@
+data.txt
+
+kajal jotwani , 18
+namrata jotwani , 14
+yashika jotwani , 23
